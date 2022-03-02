@@ -9,7 +9,7 @@
 //rpi b+ 이하 0x20200000
 //rpi 2  이상 0x3f200000
 
-#define GPFSEL1 0x4
+#define GPFSEL1 0x04
 #define GPSET0 0x1C
 #define GPCLR0 0x28
 #define GPLEV0 0x34
